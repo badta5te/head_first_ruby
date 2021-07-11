@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Mage
   attr_accessor :name, :spell
 

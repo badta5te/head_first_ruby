@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Employee
   attr_reader :name
 

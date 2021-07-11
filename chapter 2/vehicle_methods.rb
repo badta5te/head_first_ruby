@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 def accelerate
   puts "Stepping up the gas"
   puts "Speeding up"

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Dog
   attr_reader :name, :age
 

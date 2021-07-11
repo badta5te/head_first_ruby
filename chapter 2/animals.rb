@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Bird
   def talk(name)
     puts "#{name} says Chirp! Chirp!"
